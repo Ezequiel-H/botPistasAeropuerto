@@ -1,0 +1,22 @@
+{
+  "name": "pistasaeropuertobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ojo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezequie-l-h/pistasAeropuertoBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezequie-l-h/pistasAeropuertoBot/issues"
+  },
+  "homepage": "https://github.com/ezequie-l-h/pistasAeropuertoBot#readme",
+  "dependencies": {
+    "telegraf": "^4.4.1"
+  }
+}
